@@ -28,3 +28,5 @@ Average Case
 [2,3,5,8,7,9,4,15,6] -> 2. Aşama <br>
 [2,3,5,8,7,9,4,15,6] -> 3. Aşama <br>
 [2,3,4,8,7,9,5,15,6] -> 4. Aşama <br>
+
+[Patika](https://app.patika.dev/paths)
